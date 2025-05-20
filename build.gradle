@@ -52,7 +52,7 @@ run {
 }
 
 application {
-    mainClass = "polyhedra.CreatePolyhedra"
+    mainClass = "Storage"
 }
 
 // Apply common settings for both test (unit test) and integration test tasks
